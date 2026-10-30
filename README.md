@@ -1,11 +1,42 @@
-<div align="center">
+# OFFSLEEK School OS
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A customizable, multi-school management platform designed to simplify school administration.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- Student records and admissions
+- Attendance management
+- Fee management
+- Staff management
+- Examinations and results
+- Document management
+- Announcements and parent communication
+- Dashboard and reporting
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Technology
 
-</div>
+- React
+- TypeScript
+- Vite
+
+## Project Status
+
+Currently under development. Features, integrations, and security controls are subject to testing and implementation.
+
+## Getting Started
+
+Install the project dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## License
+
+All rights reserved. © 2026 OFFSLEEK.

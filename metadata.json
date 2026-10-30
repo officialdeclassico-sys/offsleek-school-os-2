@@ -1,0 +1,6 @@
+{
+  "name": "OFFSLEEK School OS",
+  "description": "Minimalist, premium school management login portal for administrators, staff, and faculty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
